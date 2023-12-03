@@ -1,0 +1,5 @@
+﻿  lab04.cpp
+D:\2_СЕМ_ЛАБЫ\AiSD 2 sem\lab04aisd\Project1\lab04.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2_СЕМ_ЛАБЫ\AiSD 2 sem\lab04aisd\Project1\lab04.cpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2_СЕМ_ЛАБЫ\AiSD 2 sem\lab04aisd\Project1\lab04.cpp(95,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> D:\2_СЕМ_ЛАБЫ\AiSD 2 sem\lab04aisd\Debug\Project1.exe

@@ -1,0 +1,4 @@
+﻿  lab5aisd.cpp
+C:\Users\user\source\repos\lab5oaip\lab5oaip\lab5aisd.cpp(39,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\lab5oaip\lab5oaip\lab5aisd.cpp(47): warning C4715: proverka: значение возвращается не при всех путях выполнения
+  lab5oaip.vcxproj -> C:\Users\user\source\repos\lab5oaip\x64\Debug\lab5oaip.exe
